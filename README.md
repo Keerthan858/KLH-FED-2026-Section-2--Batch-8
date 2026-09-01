@@ -20,8 +20,9 @@
 
 ## 📁 Repository & Submission Contents
 
-* **Logisim Circuit File (`.circ`):**  
-  * `HalfAdderandFullAdder.circ` — Contains the modular schematic design for both the Half Adder and Full Adder circuits.
+* **Logisim Circuit Files (`.circ`):**  
+  * `FULLadder.circ` — Contains the modular schematic design for Half Adder circuits.
+  * `HALFadder.circ` — Contains the modular schematic design for Full Adder circuits.
 * **Project Presentation (`.pptx` / `.ppt`):**  
   * `Half_Adder_Full_Adder_Logism.pptx` — Slide deck covering logic expressions, K-Maps, gate-level diagrams, and output waveform demonstrations.
 * **Project Presentation in pdf (`.pdf`):**  
